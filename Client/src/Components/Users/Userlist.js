@@ -14,7 +14,7 @@ function Tableview() {
     const [userToDelete, setUserToDelete] = useState(null);
     const [editUserModal, setEditUserModal] = useState(false);
     const [userToEdit, setUserToEdit] = useState(null);
-
+// IMPLEMENTING FRONTEND PAGINATION
     const totalPage = Math.ceil(userData && (userData?.length / perPage))
     useEffect(() => {
         getFunction()
