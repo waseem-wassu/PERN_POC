@@ -1,1 +1,1 @@
-# PERN_POC
+Welcome to the E-Commerce App repository! This project is a full-featured e-commerce application built using modern web technologies. The stack includes PostgreSQL for the database, Node.js and Express.js for the backend, and React.js for the frontend. This app aims to provide a seamless shopping experience for users, with features such as user authentication, product browsing, cart management, and order processing
